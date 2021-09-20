@@ -7,7 +7,7 @@
 #sys.path.insert(0, '<your_local_path>/lib/python<your_python_version>/site-packages')
 
 from flup.server.fcgi import WSGIServer
-from processor import app
+from website import app
 
 class ScriptNameStripper(object):
    def __init__(self, app):
