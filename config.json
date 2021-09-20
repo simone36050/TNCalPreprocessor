@@ -1,0 +1,35 @@
+{
+    "link": "https://webapi.unitn.it/unitrentoapp/preferences/v1/features/orari/calendario?token=3cc5f55bcb0649acb980fc50b9b52ba3",
+    "courses": [
+        {
+            "id": "1_GAL",
+            "name": "Geometria e algebra lineare",
+            "summary": "Geometria e algebra lineare"
+        },
+        {
+            "id": "2_ALGO1",
+            "name": "Algoritmi e strutture dati 1",
+            "summary": "Algoritmi e strutture dati - parte prima"
+        },
+        {
+            "id": "2_INGSOFT1",
+            "name": "Ingegneria del software (prima parte)",
+            "summary": "Ingegneria del Software 1"
+        },
+        {
+            "id": "2_SISINF",
+            "name": "Sistemi informativi",
+            "summary": "Sistemi informativi"
+        },
+        {
+            "id": "2_RETI",
+            "name": "Reti",
+            "summary": "Reti"
+        },
+        {
+            "id": "2_BASIDATI",
+            "name": "Basi di dati",
+            "summary": "Basi di dati"
+        }
+    ]
+}
