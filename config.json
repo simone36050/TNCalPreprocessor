@@ -30,6 +30,46 @@
             "id": "2_BASIDATI",
             "name": "Basi di dati",
             "summary": "Basi di dati"
+        }, 
+        {
+            "id": "2_FISICA_TUTORATO",
+            "name": "Tutorato Fisica",
+            "summary": "Tutorato Fisica"
+        },
+        {
+            "id": "2_ALGO2",
+            "name": "Algoritmi e strutture dati II",
+            "summary": "Algoritmi e strutture dati - seconda parte"
+        }, 
+        {
+            "id": "2_FISICA",
+            "name": "Fisica",
+            "summary": "Fisica"
+        },
+        {
+            "id": "2_WEB",
+            "name": "Introduzione alla programmazione per il web",
+            "summary": "Introduzione alla programmazione per il web"
+        },
+        {
+            "id": "1_FMI",
+            "name": "Fondamenti matematici per l'informatica",
+            "summary": "Fondamenti matematici per l'informatica"
+        },
+        {
+            "id": "2_FCC",
+            "name": "Fog and Cloud computing",
+            "summary": "Fog and Cloud computing"
+        },
+        {
+            "id": "2_LAB_SISOP",
+            "name": "Sistemi operativi Laboratorio",
+            "summary": "Sistemi operativi 1_LAB"
+        },
+        {
+            "id": "2_SISOP",
+            "name": "Sistemi operativi",
+            "summary": "Sistemi operativi 1_LEZ"
         }
     ]
 }
